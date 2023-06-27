@@ -1,0 +1,60 @@
+//* styles.css */
+body {
+    font-family: "Helvetica", Arial, sans-serif;
+}
+/* Header styles */
+#top {
+    background-color: #2e6a4d;
+}
+/* Profile image styles */
+.profile-image {
+    width: 500px;
+    height: 350px;
+}
+/* Section styles */
+.section-content {
+    background-color: #b4d9b0;
+    padding: 20px;
+}
+h1,
+h2 {
+    background-color: #2e6a4d;
+    color: #286048; 
+    font-family: "Arial", sans-serif;
+    font-size: 24px;
+}
+/* Subheadings styles */
+h3,
+h4,
+h5,
+h6 {
+    background-color: #51785c;
+    color: #a5cca7;
+    font-family: "Arial", sans-serif; 
+    font-size: 18px;
+}
+/* Footer styles */
+footer {
+    background-color: #b4d9b0;
+    padding: 20px;
+}
+.section-content p {
+    color: #666666;
+}
+.section-content h4 {
+    color: #555555;
+}
+.section-content h5 {
+    color: #777777;
+}
+body {
+    background-color: #7ca786;
+}
+.header-top {
+    background-color: #ffff00;
+}
+#menu {
+    height: fit-content;
+    width: 200px;
+    background-color: #2e6a4d;
+}
